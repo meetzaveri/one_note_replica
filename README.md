@@ -1,4 +1,4 @@
 ### OneNote
 
 - Still in building phase.
-- Using react-boilerplate and firestore
+- Made with react-boilerplate.
